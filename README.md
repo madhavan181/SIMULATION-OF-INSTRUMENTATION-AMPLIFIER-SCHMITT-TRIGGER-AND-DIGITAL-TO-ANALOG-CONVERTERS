@@ -1,4 +1,4 @@
-<img width="952" height="324" alt="image" src="https://github.com/user-attachments/assets/504a69c4-b108-4601-a08e-927ff4b6accf" /># SIMULATION-OF-INSTRUMENTATION-AMPLIFIER-SCHMITT-TRIGGER-AND-DIGITAL-TO-ANALOG-CONVERTERS
+SIMULATION-OF-INSTRUMENTATION-AMPLIFIER-SCHMITT-TRIGGER-AND-DIGITAL-TO-ANALOG-CONVERTERS
 
 ## AIM : 
 To Design and simulate the Instrumentation amplifier circuit using LT-Spice
